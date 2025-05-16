@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=iotproject353843;AccountKey=SF6PLTIUSNFIKakiFVtDGaoAepA6WQQs2Lvtnp0Fb88TqElhjlJW7XUhxosVWjQ5pFiuMhwsbmAv+AStp+8Bgg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "iotproject353843_STORAGE": "DefaultEndpointsProtocol=https;AccountName=iotproject353843;AccountKey=SF6PLTIUSNFIKakiFVtDGaoAepA6WQQs2Lvtnp0Fb88TqElhjlJW7XUhxosVWjQ5pFiuMhwsbmAv+AStp+8Bgg==;EndpointSuffix=core.windows.net",
+    "SQLConnectionString": "Driver={ODBC Driver 17 for SQL Server};Server=tcp:mysql353843.database.windows.net,1433;Database=PlateDB;Uid=mysql353843;Pwd=353843IoT;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;"
+  }
+}
